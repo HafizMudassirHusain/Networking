@@ -1,0 +1,13 @@
+3. Compile Both Files
+javac Server.java Client.java
+
+4. Start the Server (First Terminal)
+java Server
+It will show:
+Server is running... Waiting for client connection
+
+5. Start the Client (Second Terminal)
+java Client
+It will show:
+Connected to Server!
+Enter message:
